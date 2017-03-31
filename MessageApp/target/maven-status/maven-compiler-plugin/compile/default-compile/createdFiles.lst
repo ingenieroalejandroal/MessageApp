@@ -1,0 +1,4 @@
+com\univision\message\AppConfig.class
+com\univision\message\controller\MessageController.class
+com\univision\message\model\data\MessageService.class
+com\univision\message\model\Message.class
